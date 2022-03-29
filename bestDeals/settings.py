@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*f!b@#@djqu#y6z-5&^pzrsl3=@^13kqt1n+l3gv6gdo!d&20k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [bestdeals-m7madash-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com]
 
 
 # Application definition
